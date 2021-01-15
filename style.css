@@ -79,6 +79,10 @@ body {
   outline: 0;
 }
 
+.empty {
+  opacity: 0;
+}
+
 button:nth-child(4) {
   font-size: 20px;
   background-color: #20b2aa;
